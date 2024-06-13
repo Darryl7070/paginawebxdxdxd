@@ -5,6 +5,6 @@ os
 io
 matplotlib
 streamlit_option_menu
-import rmtree
+rmtree
 random
 numpy
