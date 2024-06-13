@@ -1,10 +1,1 @@
 streamlit==1.26.0
-pandas==2.2.2
-openpyxl==3.1.4
-os
-io
-matplotlib
-streamlit_option_menu
-rmtree
-random
-numpy
