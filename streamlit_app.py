@@ -5,7 +5,6 @@ import openpyxl as op
 import random as rn
 import os as o
 import io
-import matplotlib as plt
 from streamlit_option_menu import option_menu
 from shutil import rmtree as rma
 
